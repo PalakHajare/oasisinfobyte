@@ -2,7 +2,7 @@ Palak Hajare
 
 email - hajarepj@rknec.edu
 
-This repository contains 3 tasks in Python Programming Domain under Oasis Infobyte Internship Tasks:
+This repository contains 3 tasks in Python Programming Domain:
 
 1. BMI Calculator : It is a command-line BMI calculator in Python. It prompt users for their weight (in kilograms) and height (in meters) and calculates the BMI. It classifies it into categories (e.g., underweight, normal, overweight) based on predefined ranges and displays the BMI result and category to the user.
 
